@@ -3,6 +3,7 @@ As a customer,
 I want to open the signup page 
 so that I can select a plan and signup
 
+
   Scenario: Pricing changes when I change number of websites
     Given I'm on the SignupPage
      When I select 3 websites
