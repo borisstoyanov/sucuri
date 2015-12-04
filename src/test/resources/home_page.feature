@@ -15,7 +15,7 @@ so that I can select a plan and signup
     Given I'm on the SignupPage
      When I buy SucuriAntivirusSolution
      Then I should be at the CreateAccountPage
-     When I enter email:"randomemail2@email.com"
+     When I enter email:"randomemail3@email.com"
       And I enter password:"SOMEsecret1"
       And I agree with terms
       And I click CreateAccount
